@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedclass-of-circle-with-attributes-radius-x-and-y
+<br>
+Create a class of Circle with attributes radius, X and Y that represent the Cartesian coordinates of the center point. Radius default value is 1, it must be positive for every circle. Provide a member method Cross that returns true if two circles cross each other. Otherwise it returns false. Cross has a Circle object input parameter. Example Output:Circle1 intersects circle2: trueCircle3 intersects circle4: falseCircle1 intersects circle5: trueCircle6: (1, 0, 0)
